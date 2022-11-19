@@ -1,11 +1,7 @@
-# m82a1-logo
+### m82a1-logo
 **Convert Your (Pictures*Logos) into ASCII Art**
-
-# Disctiption:
-<big>Using this Tool, You can convert your Photos and Logos into ASCII Art..
-Which can be printed in Terminals</big>
-
-# Installation Commands:
+#
+### Installation Commands:
 
 - pkg install git
 - pkg install python
@@ -13,8 +9,8 @@ Which can be printed in Terminals</big>
 - pit clone https://github.com/poisk-ls/m82a1-logo
 - cd m82a1-logo
 - python j-logo.py
-
-# Single Installation:
+#
+### Single Installation:
 For shell script
 > - pkg install python git -y && pip install pillow && git clone https://github.com/poisk-ls/m82a1-logo && cd m82a1-logo && python j-logo.py
 
